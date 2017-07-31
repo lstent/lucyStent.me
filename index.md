@@ -1,4 +1,5 @@
 ### About me
+{"_backgroundColor": "#424242"}
 
 # Portfolio
 
