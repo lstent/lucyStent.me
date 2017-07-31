@@ -1,8 +1,8 @@
 ### About me
 
-# Portfolio
+# **Portfolio**
 
-## Games
+## **Games**
 
 ### Slime EVO
 
@@ -10,7 +10,7 @@
 
 ### Standby
 
-## Papers
+## **Papers**
 
 ### What are the advantages and disadvantages to using behaviour trees in simple NPC programming for digital games?
 
