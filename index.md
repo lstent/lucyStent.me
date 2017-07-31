@@ -5,10 +5,10 @@
 @pink: #EA1B75;
 @purple: #681A4F;
 
-### About me
-"_theme": {
+{
     "_backgroundColor": "#EA1B75"
 }
+### About me
 
 # Portfolio
 
