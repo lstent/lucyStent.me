@@ -4,10 +4,7 @@
 @red: #E30613;
 @pink: #EA1B75;
 @purple: #681A4F;
-
-{
-    "_backgroundColor": "#EA1B75"
-}
+"_backgroundColor": "#EA1B75"
 ### About me
 
 # Portfolio
