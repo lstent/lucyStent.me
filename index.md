@@ -16,7 +16,7 @@ _(Built using python and pygame)_
 
 Slime Evo is a platform game in which the player takes control of a glob of slime and traverses levels by manipulating the size of the slime.
 
-![Image](https://github.com/CallumPank/comp150-desktop-game/blob/master/THE%20GAME/Bridge.png)
+![Image](https://github.com/lstent/lstent.github.io/blob/master/Pictures/Slime%20EVO.png)
 
 Built by a team of 4 programmers, my contribution was to make the collision for the slime to stand on the platforms and gravity for the slime to fall onto said platforms.
 
