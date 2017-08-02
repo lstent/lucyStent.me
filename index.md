@@ -22,6 +22,9 @@ Built by a team of 4 programmers, my contribution was to make the collision for 
 
 ### Street Cat Fighter and Controller
 
+_(Built using C++, Unreal Engine and Arduino)_
+
+
 ### Standby
 
 ## **Papers**
