@@ -12,7 +12,7 @@ I left main stream school at 14 as I have dyslexia and dyspraxia and falling beh
 
 ### Slime EVO
 
-![Image] (https://github.com/CallumPank/comp150-desktop-game/tree/master/THE%20GAME/Bridge.png)
+![Image](https://github.com/CallumPank/comp150-desktop-game/tree/master/THE%20GAME/Bridge.png)
 
 ### Street Cat Fighter and Controller
 
