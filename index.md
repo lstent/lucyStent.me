@@ -11,10 +11,14 @@ I left main stream school at 14 as I have dyslexia and dyspraxia and falling beh
 ## **Games**
 
 ### Slime EVO
-Built using python and pygame
+
+_(Built using python and pygame)_
+
 Slime Evo is a platform game in which the player takes control of a glob of slime and traverses levels by manipulating the size of the slime.
+
 ![Image](https://github.com/CallumPank/comp150-desktop-game/blob/master/THE%20GAME/Bridge.png)
-Built by a team of 4 programmers, my contribution was to make the collision for the slime to stand on the platforms and gravity for the slime to fall onto said platforms
+
+Built by a team of 4 programmers, my contribution was to make the collision for the slime to stand on the platforms and gravity for the slime to fall onto said platforms.
 
 ### Street Cat Fighter and Controller
 
