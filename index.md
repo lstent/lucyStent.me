@@ -33,7 +33,7 @@ I built the game and controller over several months, here is a [link](https://ww
 
 ### Standby
 
-_(Built using Unreal studio)_
+_(Built using Unreal engine)_
 
 ## **Papers**
 
