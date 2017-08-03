@@ -24,6 +24,10 @@ Built by a team of 4 programmers, my contribution was to make the collision for 
 
 _(Built using C++, Unreal Engine and Arduino)_
 
+Street cat fighter is a fighting game in which the player controls a new cat in the neighborhood which fights the other cats to gain territory and eventually takes over the whole town, the player cat is controlled by pressing buttons on a cat teddy e.g. the right arm is claw, the left arm is block, the mouth is bite and the tail is stun.
+
+![Image]({{https://github.com/lstent/lstent.github.io/blob/master}}
+{{https://github.com/lstent/lstent.github.io/blob/master}}/Pictures/Street%20cat%20fighter.png)
 
 ### Standby
 
