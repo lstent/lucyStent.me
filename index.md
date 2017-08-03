@@ -29,7 +29,7 @@ Street cat fighter is a fighting game in which the player controls a new cat in 
 ![Image]({{https://github.com/lstent/lstent.github.io/blob/master}}
 {{https://github.com/lstent/lstent.github.io/blob/master}}/Pictures/Street%20cat%20fighter.png)
 
-I built the game and controller over several months a link to the controller in use [link](https://www.youtube.com/watch?v=tlWThEZve9o)
+I built the game and controller over several months a [link](https://www.youtube.com/watch?v=tlWThEZve9o) to the controller in use.
 
 ### Standby
 
