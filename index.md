@@ -35,6 +35,15 @@ I built the game and controller over several months, here is a [link](https://ww
 
 _(Built using Unreal engine)_
 
+Standby is a first person sci-fi horror set in the future when homes are controlled by robot servents, the player is the inventer of a new robot butler which had gone rogue and now seeks to kill its master, the player has to interact with objects in the environment to distract the robot and also find keycard to unlock doors and eventually destroy the server in the basement to kill the robot.
+
+![Image]({{https://github.com/lstent/lstent.github.io/blob/master}}
+{{https://github.com/lstent/lstent.github.io/blob/master}}/Pictures/Standby.png)
+
+This game was created by a team of writers, artists, animaters, designers and programmers. I programmed the AI for the Robot, which included the robot searching randomly for the player, chasing the player when they come into sight, movement speed depending on the situation, hearing the player depending on how fast the player moved and damage to the player when the robot entered the players collision capsule which takes a large chunk of health then slowly drains the rest if the player remains in the collision state.
+I also programmed the torch attached to the phone and the axe which lighted up when the player was near which also had to be picked up for the player to destroy the server and win the game.
+I created the conrtolls screen and the credits screen creating clickable links for them from the start screen and pause menu.
+
 ## **Papers**
 
 ### What are the advantages and disadvantages to using behaviour trees in simple NPC programming for digital games?
