@@ -44,7 +44,7 @@ This game was created by a team of writers, artists, animaters, designers and pr
 
 I also programmed the torch attached to the phone and the axe which lighted up when the player was near which also had to be picked up for the player to destroy the server and win the game.
 
-I created the conrtolls screen and the credits screen creating clickable links for them from the start screen and pause menu.
+I created the controlls screen and the credits screen creating clickable links for them from the start screen and pause menu.
 
 ## **Papers**
 
