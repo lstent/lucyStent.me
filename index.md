@@ -50,6 +50,8 @@ I created the controlls screen and the credits screen creating clickable links f
 
 ### What are the advantages and disadvantages to using behaviour trees in simple NPC programming for digital games?
 
+[link](https://github.com/lstent/comp160-engineering/blob/master/Software%20engineering%20essay.pdf)
+
 ### Undergraduate students lack the maturity skills in order to use Agile methodologies, such as Scrum efficiently
 
 ### The history of digital facial replication including methods used and problems that arose
