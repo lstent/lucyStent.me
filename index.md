@@ -50,6 +50,7 @@ I created the controlls screen and the credits screen creating clickable links f
 
 ### What are the advantages and disadvantages to using behaviour trees in simple NPC programming for digital games?
 
+One of the deciding factors on how well a game is rated is the behaviour of the NPC AI within the game, their movement and senses have to be realistic, e.g. if the NPC enemy is supposed to detect the player with sight, it would be wrong for the player to be detected through a wall. Therefore programming an NPC is one of the most important parts of producing a game and should be simplified as much as possible, unfortunately there are many different ways to programme an AI controlled character, of which behaviour trees is one of the most recent methods, this paper looks into the advantages and disadvantages of simple NPC programming using behaviour trees. The conclusion discusses whether the advantages of behaviour trees outweigh the disadvantages and the future of NPC AI programming.
 [link](https://github.com/lstent/comp160-engineering/blob/master/Software%20engineering%20essay.pdf)
 
 ### Undergraduate students lack the maturity skills in order to use Agile methodologies, such as Scrum efficiently
