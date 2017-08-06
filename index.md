@@ -56,4 +56,8 @@ One of the deciding factors on how well a game is rated is the behaviour of the 
 
 ### Undergraduate students lack the maturity skills in order to use Agile methodologies, such as Scrum efficiently
 
+This paper discusses the implementation of Agile methodologies (focusing on Scrum) in non-professional teams, particularly within the classroom setting, when Scrum can quickly become biased. This could refer, for example to one group member who may be given the majority of the workload, or the more complex of the Scrum tasks, while another member is given an easier task to complete in the same time period. This is in comparison to Agile being used in a professional games industry, where there is a more mature view of the working relationship. After outlining these problems, this paper presents possible solutions in the form of practice collaboration tasks, teaching the correlation of daily stand up meetings, positivity and team productivity.
+
+[Link](https://github.com/lstent/comp150-agile/blob/master/essay.pdf) to the full paper.
+
 ### The history of digital facial replication including methods used and problems that arose
