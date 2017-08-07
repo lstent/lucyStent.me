@@ -61,3 +61,9 @@ This paper discusses the implementation of Agile methodologies (focusing on Scru
 [Link](https://github.com/lstent/comp150-agile/blob/master/essay.pdf) to the full paper.
 
 ### The history of digital facial replication including methods used and problems that arose
+
+Photorealism is a very important factor to take into account for creating characters for digital games, if the game has an emotional plot line the more realistic the facial expressions of the characters whether happy or sad, the more likely the player will become emotionally invested in the story, the game will feel more immersive. Rockstar Games LA Noire is a good example of using expressions within a digital game as the story involved judging an NPCs expression to decide if what they have said is true or false, is the character angry, happy or upset?
+
+In this paper I looked into the history of digital face replication to find how the methods evolved, the problems the creators experienced. The conclusion summarises what was learnt in those years, the importance of what the authors did and looking at their papers what we can expect in the future.
+
+[Link](https://github.com/lstent/comp130-journal/blob/master/Research%20project.pdf) to the full paper
