@@ -5,7 +5,7 @@ I was awarded for academic achievement at the Women in Games conference in Londo
 
 At 19 I was awarded a BTEC (at PPM grade) in Land management from Falmouth marine school and worked for some time as a zookeeper before deciding to take the leap and follow my dream to becoming a game programmer.
 
-I left main stream school at 14 as I have dyslexia and dyspraxia and falling behind in most classes compared to my peers, I was then educated by Oxford Open Learning and received a B in double science, C in English, C in Math, B in Psychology and B in Geology.
+I left main stream school at 14 as I have dyslexia and dyspraxia and falling behind in most classes compared to my peers, I was then educated by Oxford Open Learning and received a B in double science, C in English, C in Math, B in Psychology and B in Geography.
 
 # **Portfolio**
 
