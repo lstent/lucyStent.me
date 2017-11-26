@@ -1,7 +1,9 @@
 ### About me
 
 My name is Lucy Stent, I am 25 and in my second year of a Bsc in Computing for Games at Falmouth University, in September 2017
-I was awarded for academic achievement at the Women in Games conference in London, the year before coming to Falmouth University I completed Cert.HE for IT including Robotics and Maths achieving a distinction grade from the Open University.
+I was awarded for academic achievement at the Women in Games conference in London.
+
+The year before coming to Falmouth University I completed Cert.HE for IT including Robotics and Maths achieving a distinction grade from the Open University.
 
 At 19 I was awarded a BTEC (at PPM grade) in Land management from Falmouth marine school and worked for some time as a zookeeper before deciding to take the leap and follow my dream to becoming a game programmer.
 
