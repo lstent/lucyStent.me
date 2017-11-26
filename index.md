@@ -51,7 +51,7 @@ I created the controls screen and the credits screen creating clickable links fo
 
 _(Built using Unreal engine)_
 
-High Tide is a local couch co-op multiplayer (in the making) which the player controls a shark and has to eat more than the other players to win the game. Each shark has different abilities depending on what species the player chooses which can mean your shark is faster or has an ability to hooover in all the fish within a certain range and maybe even stun another player. Also depending on what type of fish you each you can gain or loose different number of points. There are different maps and game modes including a peaceful reef that you race against time to eat more than your friends or an underwater shipwreak that has dangerous enemies that you must avoid to succeed.
+High Tide is a local couch co-op multiplayer (in the making) which the player controls a shark and has to eat more than the other players to win the game. Each shark has different abilities depending on what species the player chooses which can mean your shark is faster or has an ability to hoover in all the fish within a certain range and maybe even stun another player. Also depending on what type of fish you each you can gain or loose different number of points. There are different maps and game modes including a peaceful reef that you race against time to eat more than your friends or an underwater shipwreck that has dangerous enemies that you must avoid to succeed.
 
 [Link](https://www.facebook.com/CosmoPodStudios/) to the official CosmoPod Studio Facebook Page to follow our progress
 
@@ -60,7 +60,7 @@ High Tide is a local couch co-op multiplayer (in the making) which the player co
 
 This game is being created by a team of audio, artists, animators, designers and programmers. I am the lead programmer in the team as I have a previous knowledge of programming in Unreal Engine. I work closely with the designers, artists and animators to say what is possible and what is not possible within the time frame and helping navigate them through the engine. I also help the other programmers understand what the tasks are for the current sprint and how we can create the mechanics within the game, I also pair program with them if they need help so I can talk it through with them and discuss how we can solve the problem.
 
-I have so far created the UI, local multiplayer splitscreen, collision, designed and created an interactive character choice (in which the player swims into the shark they want to become in the game). I created the AI fish to swim around the level in which they have sight and hearing tell them if a player is close and if that it true swim away, the sight and hearing also helps them follow other fish to make it appear as though the fish schooling. Most importantly finding and fixing any bugs.
+I have so far created the UI, local multiplayer split-screen, collision, designed and created an interactive character choice (in which the player swims into the shark they want to become in the game). I created the AI fish to swim around the level in which they have sight and hearing tell them if a player is close and if that it true swim away, the sight and hearing also helps them follow other fish to make it appear as though the fish schooling. Most importantly finding and fixing any bugs.
 
 ## **Papers**
 
