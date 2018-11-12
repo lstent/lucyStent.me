@@ -66,6 +66,8 @@ I have so far created the UI, local multiplayer split-screen, collision, designe
 
 ### Ski Cheap
 
+![Image]({{https://github.com/lstent/lstent.github.io/blob/master}} {{https://github.com/lstent/lstent.github.io/blob/master/Pictures/Ski%20cheap.png)
+
 _(Built using JavaScript)_
 [Link](https://lstent.github.io/game.html) To play the game.
 
