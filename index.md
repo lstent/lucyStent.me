@@ -64,6 +64,11 @@ This game is being created by a team of audio, artists, animators, designers and
 
 I have so far created the UI, local multiplayer split-screen, collision, designed and created an interactive character choice (in which the player swims into the shark they want to become in the game). I created the AI fish to swim around the level in which they have sight and hearing tell them if a player is close and if that it true swim away, the sight and hearing also helps them follow other fish to make it appear as though the fish schooling. Most importantly finding and fixing any bugs.
 
+### Ski Cheap
+
+_(Built using JavaScript)_
+[Link](https://lstent.github.io/game.html) To play the game.
+
 ## **Papers**
 
 ### What are the advantages and disadvantages to using behaviour trees in simple NPC programming for digital games?
