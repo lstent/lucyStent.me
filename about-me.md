@@ -1,6 +1,4 @@
-lstent.github.io
-
-## About me
+## **About me**
   
 My name is Lucy Stent, I am 26 and in my third year of a Bsc in Computing for Games at Falmouth University, in September 2017
 I was awarded for academic achievement at the Women in Games conference in London.
