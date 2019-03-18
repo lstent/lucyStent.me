@@ -1,6 +1,6 @@
 # lstent.github.io
 
-<a href="index.html">Main Page</a>
+<a href="index.md">Main Page</a>
 
 ### About me
 
