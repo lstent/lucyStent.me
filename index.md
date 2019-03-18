@@ -2,7 +2,7 @@ lstent.github.io
    
 <a href="about-me.md">About Me</a>
 
-#**Portfolio**
+# **Portfolio**
 
 ## **Games**
 
