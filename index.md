@@ -1,5 +1,6 @@
 <a href="aboutme.md">About Me</a>
-<a href="papers.md">Main Page</a>
+
+<a href="papers.md">Papers</a>
 
 # **Portfolio**
 
