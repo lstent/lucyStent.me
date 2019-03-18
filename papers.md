@@ -35,3 +35,5 @@ The conclusion summarises all the information, weighing the benefits against the
 This paper focuses on the usability issues that other papers have found in AR and VR. AR/ VR are relatively new, also because of the price and room needed to use them they are not as popular as traditional gaming platforms (e.g. Xbox, PlayStation, PC), therefore studies on usability are important so those that own or try it enjoy the experience.
 
 [Link](https://github.com/lstent/COMP210_3_journal/blob/master/Research%20Journal.pdf) to the full paper
+
+<a href="index.md">Main Page</a>
