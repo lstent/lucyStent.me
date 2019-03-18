@@ -1,6 +1,6 @@
 # **Portfolio**
 
-* [[about-me]]
+<a href="about-me.md">Page 2</a>
 
 ## **Games**
 
