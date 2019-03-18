@@ -1,5 +1,7 @@
 # **Portfolio**
 
+* [[about-me]]
+
 ## **Games**
 
 ### Slime EVO
