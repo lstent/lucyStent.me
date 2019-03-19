@@ -1,3 +1,7 @@
+---
+Title: About me
+---
+
 ## **About me**
   
 My name is Lucy Stent, I am 26 and in my third year of a Bsc in Computing for Games at Falmouth University, in September 2017
