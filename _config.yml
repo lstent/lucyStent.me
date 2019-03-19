@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: jvictorvoid/space-jekyll-template
 
 relative_links:
   enabled: true
