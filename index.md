@@ -1,6 +1,7 @@
 ---
 
 ---
+<body>
 <header class="page-header" role="banner">
 <h1 class="project-name">Lucy Stent</h1>
 <a href="aboutme.html" class="btn">About Me</a>
@@ -68,3 +69,4 @@ I have so far created the UI, local multiplayer split-screen, collision, designe
 
 _(Built using JavaScript)_
 [Link](https://lstent.github.io/game.html) To play the game.
+</body>
