@@ -3,7 +3,7 @@
 <a href="aboutme.html">About Me</a>
 
 <a href="papers.html">Papers</a>
-
+{% include papers.html button_name="Papers" button_class="primary" %}
 
 # **Portfolio**
 
