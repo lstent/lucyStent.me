@@ -40,4 +40,4 @@ This paper focuses on the usability issues that other papers have found in AR an
 
 [Link](https://github.com/lstent/COMP210_3_journal/blob/master/Research%20Journal.pdf) to the full paper
 
-<a href="index.md">Main Page</a>
+<a href="index.html">Main Page</a>
