@@ -3,12 +3,11 @@
 ---
 
 
-<body>
-<header class="page-header" role="banner">
-<h1 class="project-name">Lucy Sten</h1>
-<a href="aboutme.html" class="btn">About Me</a>
-<a href="papers.html" class="btn">Papers</a>
-</header>
+
+<a href="aboutme.html">About Me</a>
+
+<a href="papers.html">Papers</a>
+
 
 # **Portfolio**
 
