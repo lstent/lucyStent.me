@@ -2,9 +2,9 @@
 
 ---
 
-<a href="aboutme.md">About Me</a>
+<a href="aboutme.html">About Me</a>
 
-<a href="papers.md">Papers</a>
+<a href="papers.html">Papers</a>
 
 # **Portfolio0**
 
