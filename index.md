@@ -2,6 +2,10 @@
 
 <a href="papers.md">Papers</a>
 
+---
+Title: My portfolio
+---
+
 # **Portfolio**
 
 ## **Games**
