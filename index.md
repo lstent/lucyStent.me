@@ -1,10 +1,10 @@
-<a href="aboutme.md">About Me</a>
-
-<a href="papers.md">Papers</a>
-
 ---
 Title: My portfolio
 ---
+
+<a href="aboutme.md">About Me</a>
+
+<a href="papers.md">Papers</a>
 
 # **Portfolio**
 
