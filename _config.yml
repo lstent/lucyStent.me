@@ -1,5 +1,3 @@
-remote_theme: jvictorvoid/space-jekyll-template
-
 relative_links:
   enabled: true
   collections: true
@@ -8,4 +6,3 @@ include:
   - index.md
   - aboutme.md
   - papers.md
-
