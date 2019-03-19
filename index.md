@@ -1,7 +1,3 @@
----
-
----
-
 
 
 <a href="aboutme.html">About Me</a>
