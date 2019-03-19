@@ -2,7 +2,7 @@
 
 ---
 <head class="page-header" role="banner">
-<h1 class="project-name">Lucy Stent</h1>
+<h1 class="project-name">Lucy Sten</h1>
 <a href="aboutme.html" class="btn">About Me</a>
 <a href="papers.html" class="btn">Papers</a>
 </head>
