@@ -13,4 +13,4 @@ At 19 I was awarded a BTEC (at PPM grade) in Land management from Falmouth marin
 
 I left main stream school at 14 as I have dyslexia and dyspraxia and falling behind in most classes compared to my peers, I was then       educated by Oxford Open Learning and received a B in double science, C in English, C in Math, B in Psychology and B in Geography.
   
-<a href="index.html">Main Page</a>
+<a href="index.html" class="btn">Main Page</a>
