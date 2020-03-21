@@ -4,7 +4,7 @@
 
 ## **About me**
   
-My name is Lucy Stent, I am 27 and in my first year of a MSc in Artificial Intelligence. I have just completed a Bsc in Computing for Games at Falmouth University
+My name is Lucy Stent, I am 27 and in my first year of a MSc in Artificial Intelligence. I have just completed a Bsc in Computing for Games at Falmouth University.
 
 I was awarded for academic achievement from Women in Games in 2017, and I have also recieved grants from the Girls of the Guild and Hilda Marindale to stufy my Masters degree in 2019.
 
