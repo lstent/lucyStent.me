@@ -4,7 +4,7 @@
 
 ## **About me**
   
-My name is Lucy Stent, I am 28 and in my first year of a PhD focusing on machine learning. I have just completed a MSc in AI for Games at Falmouth University.
+My name is Lucy Stent, I am 29 and in my Second year of a PhD focusing on machine learning. I have just completed a MSc in AI for Games at Falmouth University.
 
 I was awarded for academic achievement from Women in Games in 2017, and I have also recieved grants from the Girls of the Guild and Hilda Marindale to study my Masters degree in 2019. As of 2020 I was also awarded the Google Techmakers grant to continue studying to a PhD level.
 
